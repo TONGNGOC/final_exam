@@ -11,7 +11,7 @@
     $password = "admin123";
     
     // データベース接続オブジェクトを取得
-    $pdo = new PDO($dsn, $user, $password);
+    $pdo = new PDO($dsn, $user, $password); 
     // 実行するSQLを設定
     if($action == "update"){
         $sql = "update product 

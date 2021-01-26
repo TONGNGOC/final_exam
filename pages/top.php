@@ -8,7 +8,7 @@
 <body>
 <header>
 	<h1>商品データベース</h1>
-</header>
+</header> 
 <main id="index">
 	<h2>商品データベースの処理</h2>
 	<ul>

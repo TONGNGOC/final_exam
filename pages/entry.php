@@ -10,7 +10,7 @@
 </head>
 <body>
 <header>
-	<h1>商品データベース</h1>
+	<h1>商品データベース</h1> 
 </header>
 <main id="entry">
 	<h2>商品の登録</h2>

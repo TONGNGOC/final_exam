@@ -8,7 +8,7 @@
     $pdo = new PDO($dsn, $user, $password);
     // 実行するSQLを設定
     $sql = "select * from product";
-    // SQL実行オブジェクトを取得
+    // SQL実行オブジェクトを取得 
     $pstmt = $pdo->prepare($sql);
     // SQLを実行
     $pstmt->execute();
